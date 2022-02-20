@@ -1,1 +1,1 @@
-Introduction to Git by ALX software engineering
+Introduction to git by ALX software engineering
